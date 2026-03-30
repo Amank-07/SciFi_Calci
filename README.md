@@ -106,7 +106,7 @@ flutter analyze
 
 ## 📦 APK Download
 
-👉 [Download APK]([ADD_RELEASE_LINK_HERE](https://tinyurl.com/2w7ppaxb))
+👉 [Download APK](https://tinyurl.com/2w7ppaxb)
 
 ---
 
